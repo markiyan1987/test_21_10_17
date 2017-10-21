@@ -3,4 +3,10 @@ git init
 git status
 git add -m"comentar"
 git commit
+
 git checkout master/branch1
+
+git branch branch1
+git branch
+git checkout
+
